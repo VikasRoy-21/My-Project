@@ -1,4 +1,4 @@
 # My-Project
 This is my project
 <br>
-Author- Vikas 
+Author- Vikas (my project)
